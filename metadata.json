@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Max OS",
+  "description": "Simulasi Google Pixel Ultimate Max OS v17.0 dengan Snapdragon 8 Gen 6 Max, 128 GB RAM, dan 4 TB Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
